@@ -19,12 +19,22 @@ Sales by Category (Column Chart)
 Sales & Profit Trend Over Time (Line Chart)
 Sales by Customer Segment (Pie Chart)
 Discount Impact on Profit (Scatter Plot)
+
 3. Dashboard Storyboard in Power BI
 
 Designed a Power BI Dashboard with the following components:-
+
 KPI Cards: Total Sales, Profit, Discount, Quantity
 Sales by Region (Donut Chart)
 Sales by Category (Column Chart)
 Sales & Profit Trend (Line Chart)
 Customer Segment Analysis (Pie Chart)
 Discount vs Profit (Scatter Chart)
+
+4. Insights Extracted
+
+Consumer segment drives the highest revenue but has the lowest profit margin (11.5%).
+Home Office segment, while smaller in revenue, yields the highest margin (14%).
+West region outperforms others in sales, while Central region lags.
+Technology category contributes the most profit.
+High discounts strongly correlate with loss-making transactions.
